@@ -1,0 +1,9 @@
+{
+  "name": "resumeiq-frontend",
+  "version": "1.0.0",
+  "description": "ResumeIQ Frontend",
+  "scripts": {
+    "start": "npx serve . -p 3000",
+    "dev": "npx live-server --port=3000"
+  }
+}

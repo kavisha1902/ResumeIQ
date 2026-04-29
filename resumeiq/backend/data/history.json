@@ -1,0 +1,114 @@
+{
+  "05ea06e9-06e4-4c56-8216-173b737235da": [
+    {
+      "id": "22bf99ea-f5ea-40d6-8980-f9b8d90c62a2",
+      "createdAt": "2026-04-23T08:41:29.790Z",
+      "jobDescription": "We are hiring a Machine Learning Engineer for our AI/NLP team.\r\n\r\nRequired Skills:\r\n- Python (3+ years)\r\n- Machine Learning: scikit-learn, XGBoost, PyTorch or TensorFlow\r\n- NLP: BERT, transformers, Hugging Face\r\n- SQL and data preprocessing\r\n- Experience with model deployment (REST APIs, Docker)\r\n\r\n...",
+      "model": "bert_xgboost",
+      "threshold": "0.71",
+      "biasMitigation": "adversarial",
+      "resumeCount": 1,
+      "shortlistedCount": 0,
+      "avgScore": 55,
+      "results": {
+        "candidates": [
+          {
+            "name": "Candidate 1",
+            "file": "Pasted Resume",
+            "score": 55,
+            "cosine_sim": 0.55,
+            "verdict": "Potential Match",
+            "shortlisted": false,
+            "experience_years": "8",
+            "education": "B.Tech / B.E. (demo estimate)",
+            "current_role": "Software Engineer (demo estimate)",
+            "ner_entities": {
+              "skills_matched": [
+                "Docker",
+                "Git",
+                "Python"
+              ],
+              "skills_missing": [
+                "NLP",
+                "Node.js"
+              ],
+              "certifications": [
+                "Demo Certification"
+              ],
+              "companies": [
+                "Demo Company"
+              ]
+            },
+            "analysis": "Demo fallback result generated because live AI provider is unavailable.",
+            "strength": "Docker alignment appears strong based on resume keywords.",
+            "concern": "NLP is less visible in the current profile.",
+            "bias_note": "Demo mode - no formal bias audit run."
+          }
+        ],
+        "stats": {
+          "total": 1,
+          "shortlisted": 0,
+          "avg_score": 55,
+          "top_skill": "Docker",
+          "demographic_parity_diff": 0.03,
+          "equalized_odds_diff": 0.04
+        }
+      }
+    },
+    {
+      "id": "f41fdd4e-bf1d-4996-ba00-54fc39b68e51",
+      "createdAt": "2026-04-23T08:41:13.327Z",
+      "jobDescription": "Looking for a Python backend developer with REST API, SQL, and Node.js experience for production systems.",
+      "model": "bert_xgboost",
+      "threshold": "0.72",
+      "biasMitigation": "adversarial",
+      "resumeCount": 1,
+      "shortlistedCount": 1,
+      "avgScore": 78,
+      "results": {
+        "candidates": [
+          {
+            "name": "Candidate 1",
+            "file": "Pasted Resume",
+            "score": 78,
+            "cosine_sim": 0.78,
+            "verdict": "Strong Match",
+            "shortlisted": true,
+            "experience_years": "1",
+            "education": "B.Tech / B.E. (demo estimate)",
+            "current_role": "Software Engineer (demo estimate)",
+            "ner_entities": {
+              "skills_matched": [
+                "Python",
+                "SQL",
+                "Git"
+              ],
+              "skills_missing": [
+                "NLP",
+                "Express"
+              ],
+              "certifications": [
+                "Demo Certification"
+              ],
+              "companies": [
+                "Demo Company"
+              ]
+            },
+            "analysis": "Demo fallback result generated because live AI provider is unavailable.",
+            "strength": "Python alignment appears strong based on resume keywords.",
+            "concern": "NLP is less visible in the current profile.",
+            "bias_note": "Demo mode - no formal bias audit run."
+          }
+        ],
+        "stats": {
+          "total": 1,
+          "shortlisted": 1,
+          "avg_score": 78,
+          "top_skill": "Python",
+          "demographic_parity_diff": 0.03,
+          "equalized_odds_diff": 0.04
+        }
+      }
+    }
+  ]
+}

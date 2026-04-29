@@ -1,0 +1,72 @@
+{
+  "kavisharma1111@gmail.com": {
+    "id": "05ea06e9-06e4-4c56-8216-173b737235da",
+    "firstName": "Kavisha",
+    "lastName": "Sharma",
+    "email": "kavisharma1111@gmail.com",
+    "organization": "BE CSE AIML",
+    "passwordHash": "$2a$12$lF29zBn9RgMaYyWKenS2f.ZOrTHSuOyiSJ7vYZAQKCSL865vjl2R6",
+    "createdAt": "2026-04-23T08:05:38.939Z",
+    "analysisCount": 2
+  },
+  "kavishasharma1110@gmail.com": {
+    "id": "10d63a28-d701-4848-982b-4725721b6bd4",
+    "firstName": "Kavisha",
+    "lastName": "Sharma",
+    "email": "kavishasharma1110@gmail.com",
+    "organization": "BE CSE AIML",
+    "passwordHash": "$2a$12$9nJkoPj/pPpaZ9CRdcdRUOxQ4VMee/4bHPUd3QR/aFhA0o/0T0z1S",
+    "createdAt": "2026-04-23T08:06:24.286Z",
+    "analysisCount": 0
+  },
+  "demo@resumeiq.app": {
+    "id": "17cc6801-a18b-4dea-b296-2ca4e9599c1a",
+    "firstName": "Demo",
+    "lastName": "User",
+    "email": "demo@resumeiq.app",
+    "organization": "ResumeIQ Demo",
+    "passwordHash": "$2a$10$2gR0ahgp2e7NOukZSKyh5eXiIZBfZFoYB078fL7GKmVLSHBiRG9Ji",
+    "createdAt": "2026-04-23T08:06:30.892Z",
+    "analysisCount": 0
+  },
+  "sidak450@gmail.com": {
+    "id": "ac4f7904-a758-4498-a151-d26c1307b036",
+    "firstName": "Sidak",
+    "lastName": "Sharma",
+    "email": "sidak450@gmail.com",
+    "organization": "Chandigrah University",
+    "passwordHash": "$2a$12$thHgE1AJH0MnlUqPZp4e0uj5cJo0hB3cbgXHpyCdcwUNTxRNeIAfi",
+    "createdAt": "2026-04-23T08:07:24.305Z",
+    "analysisCount": 0
+  },
+  "test@example.com": {
+    "id": "cfcb01ea-38f8-4ab5-a49c-71fc135460e4",
+    "firstName": "Test",
+    "lastName": "User",
+    "email": "test@example.com",
+    "organization": "Test Co",
+    "passwordHash": "$2a$12$oqVHylcykvQgfMTNbkMLu.s18bv.8.nAzDX4aBmrFYvxiyjpjEg4S",
+    "createdAt": "2026-04-23T08:09:45.179Z",
+    "analysisCount": 0
+  },
+  "test2@example.com": {
+    "id": "d18ab57c-bfc7-4117-82d5-30fd2773bb91",
+    "firstName": "Test",
+    "lastName": "User",
+    "email": "test2@example.com",
+    "organization": "Test Co",
+    "passwordHash": "$2a$12$dRj7iq4ctCMzfSbFBhCd0eOHNXgII54Xf7J4b6xg4WuUpYuerKWty",
+    "createdAt": "2026-04-23T08:09:54.231Z",
+    "analysisCount": 0
+  },
+  "test3@example.com": {
+    "id": "31468716-1028-4ae6-b9b4-68238c1e7c78",
+    "firstName": "Test",
+    "lastName": "User",
+    "email": "test3@example.com",
+    "organization": "Test Co",
+    "passwordHash": "$2a$12$5twOE4lMpmzcFE7LNw3.SueOUhKWDSVtRIoWAAc4.kcJmvCes66v.",
+    "createdAt": "2026-04-23T08:11:11.603Z",
+    "analysisCount": 0
+  }
+}
