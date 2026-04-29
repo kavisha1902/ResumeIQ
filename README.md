@@ -1,6 +1,28 @@
-# ResumeIQ
+# ResumeIQ — Intelligent Resume Screening System
 
-A resume scanner webapp that analyzes and extracts information from resumes using advanced text extraction and parsing techniques.
+Full-stack web application for AI-powered resume screening, candidate ranking, and fairness auditing.
+
+Based on the research paper:
+> *Intelligent Resume Screening System: A Machine Learning Approach to Automated Talent Acquisition*
+> Chandigarh University, 2026
+
+---
+
+## 📸 Screenshots
+
+### 1. Home Page
+![Home Page](resumeiq/screenshots/home.png)
+
+### 2. Sign In
+![Sign In](resumeiq/screenshots/sign_in.png)
+
+### 3. Upload & Configure Analysis
+![Upload Details](resumeiq/screenshots/upload_details.png)
+
+### 4. Analysis Results
+![Analysis Results](resumeiq/screenshots/analysis.png)
+
+---
 
 ## 📋 Features
 
