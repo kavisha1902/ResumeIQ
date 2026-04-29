@@ -11,16 +11,16 @@ Based on the research paper:
 ## 📸 Screenshots
 
 ### 1. Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](resumeiq/screenshots/home.png)
 
 ### 2. Sign In
-![Sign In](./screenshots/sign_in.png)
+![Sign In](resumeiq/screenshots/sign_in.png)
 
 ### 3. Upload & Configure Analysis
-![Upload Details](./screenshots/upload_details.png)
+![Upload Details](resumeiq/screenshots/upload_details.png)
 
 ### 4. Analysis Results
-![Analysis Results](./screenshots/analysis.png)
+![Analysis Results](resumeiq/screenshots/analysis.png)
 
 ---
 
